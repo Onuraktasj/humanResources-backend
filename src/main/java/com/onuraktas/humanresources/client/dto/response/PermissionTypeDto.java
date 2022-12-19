@@ -1,0 +1,7 @@
+package com.onuraktas.humanresources.client.dto.response;
+
+public enum PermissionTypeDto {
+
+    YEARLY_PERMISSION,MILITARY_PERMISSION,PATHERS_PERMISSION,BIRTH_PERMISSION,POST_BIRTHDAY_PERMISSION
+    ,MARRIAGE_PERMISSION,FREE_PERMISSION
+}

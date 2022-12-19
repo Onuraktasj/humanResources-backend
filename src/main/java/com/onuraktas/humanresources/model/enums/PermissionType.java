@@ -1,0 +1,10 @@
+package com.onuraktas.humanresources.model.enums;
+
+public enum PermissionType {
+
+    YEARLY_PERMISSION,MILITARY_PERMISSION,PATHERS_PERMISSION,BIRTH_PERMISSION,POST_BIRTHDAY_PERMISSION
+    ,MARRIAGE_PERMISSION,FREE_PERMISSION
+
+
+
+    }
